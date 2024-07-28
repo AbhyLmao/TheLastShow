@@ -1,6 +1,6 @@
 # The Last Show
 
- a full stack application with React and AWS that generates obituaries for people (fictional or otherwise). You will use [ChatGPT](https://openai.com/blog/chatgpt) to generate an obituary, [Amazon Polly](https://aws.amazon.com/polly/) to turn the obituary into speech, and [Cloudinary](https://cloudinary.com/) to store the speech and a picture of the deceased (may they rest in peace).
+ a full stack application with React and AWS that generates obituaries for people (fictional or otherwise). uses [ChatGPT](https://openai.com/blog/chatgpt) to generate an obituary, [Amazon Polly](https://aws.amazon.com/polly/) to turn the obituary into speech, and [Cloudinary](https://cloudinary.com/) to store the speech and a picture of the deceased (may they rest in peace).
 
 ## Architecture Overview
 
